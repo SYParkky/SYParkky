@@ -1,4 +1,8 @@
 ## Hi there 👋
+I'm Seoyeon, an undergraduate student interested in Computational Neuroscience😄!
+My current interests are medical imaging, sleep, and neurodegenerative diseases.
+Contact me 🥰: viathrough21@g.skku.edu
+
 
 <!--
 **SYParkky/SYParkky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
