@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Seoyeon, an undergraduate student interested in Computational Neuroscience😄!
 
-My current interests are medical imaging, sleep, and neurodegenerative diseases.
+My current interests focus on decoding neural data related to sleep and dreaming, as well as developing computational approaches to understand and treat neurodegenerative diseases.
 
 Contact me 🥰: viathrough21@g.skku.edu
 
